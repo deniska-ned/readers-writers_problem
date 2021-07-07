@@ -1,0 +1,13 @@
+# executable
+
+app
+
+
+# object files
+
+*.o
+
+
+# logs
+
+*.log
